@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#3a63d8"/>
+      <stop offset="0.55" stop-color="#1f3a9e"/>
+      <stop offset="1" stop-color="#101f5c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.28" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#d9e2ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1024" height="1024" rx="230" fill="url(#glow)"/>
+  <rect x="34" y="34" width="956" height="956" rx="200" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="6"/>
+  <!-- waveform: the recording -->
+  <g fill="url(#bar)">
+    <rect x="262" y="442" width="72" height="180" rx="36"/>
+    <rect x="378" y="342" width="72" height="380" rx="36"/>
+    <rect x="494" y="262" width="72" height="540" rx="36"/>
+    <rect x="610" y="372" width="72" height="320" rx="36"/>
+    <rect x="726" y="462" width="72" height="140" rx="36"/>
+  </g>
+  <!-- spark: the AI summary -->
+  <path d="M770 196 C784 254 806 276 864 290 C806 304 784 326 770 384 C756 326 734 304 676 290 C734 276 756 254 770 196 Z" fill="#f4c95d"/>
+</svg>

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CMgEUHpv.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`p-10`,children:`Something went wrong.`});export{n as errorComponent};
