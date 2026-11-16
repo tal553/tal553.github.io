@@ -1,4 +1,4 @@
-import{a as e}from"./jsx-runtime-CMgEUHpv.js";import{n as t,t as n}from"./react-dom-BVk9cgAx.js";import{g as r,h as i}from"./dropdown-menu-g9ROLOg8.js";import{f as a,m as o,p as s}from"./export-markdown-Dvxi2r3-.js";import{b as c,kt as l}from"./index-CeaZLPCp.js";var u=e(t(),1),d=e(n(),1),f=l(),p=794,m=1123,h=57,g=60,_=68,v=p-h*2,y=m-g-_,b=2,x=`
+import{a as e}from"./jsx-runtime-CMgEUHpv.js";import{n as t,t as n}from"./react-dom-BVk9cgAx.js";import{g as r,h as i}from"./dropdown-menu-D4bax-WN.js";import{f as a,m as o,p as s}from"./export-markdown-DPrcZn6c.js";import{b as c,kt as l}from"./index-BBwK4FKw.js";var u=e(t(),1),d=e(n(),1),f=l(),p=794,m=1123,h=57,g=60,_=68,v=p-h*2,y=m-g-_,b=2,x=`
 .lm-pdf { width:${v}px; background:#fff; color:#16181d; font-family:"Assistant","Arial Hebrew",Arial,sans-serif; font-size:15px; line-height:1.75; padding:0; margin:0; }
 .lm-pdf * { box-sizing:border-box; }
 .lm-pdf h1 { font-family:"Frank Ruhl Libre","Assistant",serif; font-size:27px; line-height:1.3; margin:0 0 8px; color:#16181d; }
@@ -10,7 +10,7 @@ import{a as e}from"./jsx-runtime-CMgEUHpv.js";import{n as t,t as n}from"./react-
 .lm-pdf li { margin:3px 0; }
 .lm-pdf strong { font-weight:700; }
 .lm-pdf em { font-style:normal; font-weight:600; }
-.lm-pdf blockquote { margin:8px 0; padding:6px 12px; background:#f1f4fa; border-inline-start:3px solid #5b7fc4; border-radius:4px; }
+.lm-pdf blockquote { margin:8px 0; padding:6px 12px; background:#f1f4fa; border:1px solid #d9e1f0; border-radius:6px; }
 .lm-pdf hr { border:0; border-top:1px solid #d5d9e0; margin:18px 0; }
 .lm-pdf code { font-family:Menlo,monospace; font-size:.92em; background:#f1f3f6; padding:0 3px; border-radius:3px; direction:ltr; unicode-bidi:isolate; }
 .lm-pdf pre { background:#f1f3f6; padding:8px; border-radius:4px; direction:ltr; white-space:pre-wrap; }
