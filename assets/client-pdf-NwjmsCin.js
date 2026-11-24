@@ -1,4 +1,4 @@
-import{a as e}from"./jsx-runtime-CMgEUHpv.js";import{n as t,t as n}from"./react-dom-BVk9cgAx.js";import{g as r,h as i}from"./dropdown-menu-DP_YRcqg.js";import{f as a,m as o,p as s}from"./export-markdown-BElyA4_k.js";import{C as c,Nt as l}from"./index-CXid83S_.js";var u=e(t(),1),d=e(n(),1),f=l(),p=794,m=1123,h=57,g=60,_=68,v=p-h*2,y=m-g-_,b=2,x=`
+import{a as e}from"./jsx-runtime-CMgEUHpv.js";import{n as t,t as n}from"./react-dom-BVk9cgAx.js";import{g as r,h as i}from"./dropdown-menu-DY7bEr_L.js";import{f as a,m as o,p as s}from"./export-markdown-D5WKMQEm.js";import{C as c,Nt as l}from"./index-85tbzQcT.js";var u=e(t(),1),d=e(n(),1),f=l(),p=794,m=1123,h=57,g=60,_=68,v=p-h*2,y=m-g-_,b=2,x=`
 .lm-pdf { width:${v}px; background:#fff; color:#16181d; font-family:"Assistant","Arial Hebrew",Arial,sans-serif; font-size:15px; line-height:1.75; padding:0; margin:0; }
 .lm-pdf * { box-sizing:border-box; }
 .lm-pdf h1 { font-family:"Frank Ruhl Libre","Assistant",serif; font-size:27px; line-height:1.3; margin:0 0 8px; color:#16181d; }
